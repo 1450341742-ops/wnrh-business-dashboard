@@ -1,0 +1,2 @@
+contract_id,project_id,project_name,customer,contract_amount,invoice_amount,received_amount,due_date,received_date,bd,owner,remark
+C001,P001,示例项目,示例客户,100000,50000,50000,2026-02-15,2026-02-10,商务负责人,财务负责人,示例

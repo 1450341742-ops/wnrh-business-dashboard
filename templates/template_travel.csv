@@ -1,0 +1,2 @@
+travel_date,person,project_id,project_name,customer,city,expense_type,amount,pay_method,invoice_status,source,remark
+2026-01-10,张三,P001,示例项目,示例客户,上海,住宿,600,公司账户,已开票,手工导入,示例

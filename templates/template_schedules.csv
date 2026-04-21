@@ -1,0 +1,2 @@
+project_id,project_name,site_name,visit_date,auditor,audit_role,work_days,travel_city,is_parttime,visit_equivalent,remark
+P001,示例项目,示例医院,2026-01-10,张三,负责人,2,上海,否,1,示例

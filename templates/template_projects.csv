@@ -1,0 +1,2 @@
+project_id,project_name,customer,project_type,phase,disease_area,contract_amount,recognized_revenue,project_visits,start_date,end_date,pm,bd,status
+P001,示例项目,示例客户,中心稽查,III期,肿瘤,100000,100000,5,2026-01-01,2026-01-31,项目负责人,商务负责人,进行中
